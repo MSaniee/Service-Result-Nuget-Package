@@ -6,20 +6,18 @@
 		<title>MS2 Service Result</title>
 		<authors>Mohsen Saniee(MS2)</authors>
 		<owners>Mohsen Saniee(MS2)</owners>
-		<licenseUrl></licenseUrl>
+		<license type="expression">MIT</license>
 		<projectUrl>https://github.com/MSaniee/Service-Result-Nuget-Package</projectUrl>
-		<iconUrl></iconUrl>
+		<icon>icon.png</icon>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<description></description>
-		<releaseNotes></releaseNotes>
-		<copyright></copyright>
-		<tags></tags>
-		<dependencies>
-			<dependency id="" />
-		</dependencies>
+		<description>A simple library for standardizing services results.</description>
+		<releaseNotes>First release</releaseNotes>
+		<copyright>Copyright 2021 github.com/MSaniee/Service-Result-Nuget-Package</copyright>
+		<tags></tags>		
 		<summary></summary>
 	</metadata>
 	<files>
-		<file src="" target="" />
+		<file src="Readme.txt" target="" />
+		<file src="icon.png" target="" />
 	</files>
 </package>
