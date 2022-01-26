@@ -1,6 +1,4 @@
-﻿using ServiceResult.Utilities;
-
-namespace ServiceResult
+﻿namespace ServiceResult
 {
     #region enum ResultStatus
     public enum ResultStatus
